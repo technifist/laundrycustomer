@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "741456490527",
+    "firebase_url": "https://laundry-live-default-rtdb.firebaseio.com",
+    "project_id": "laundry-live",
+    "storage_bucket": "laundry-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741456490527:android:447feb344e5c3998f0a52a",
+        "android_client_info": {
+          "package_name": "com.laundry_live.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741456490527-59jinssfd7q5lh60v740hi2m689i2e4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3FYvVWy1_gbNhL5SgFigB69ZbkujBMdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741456490527-59jinssfd7q5lh60v740hi2m689i2e4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741456490527:android:7a38327a36eb3d97f0a52a",
+        "android_client_info": {
+          "package_name": "com.menpani.laundry_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741456490527-59jinssfd7q5lh60v740hi2m689i2e4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3FYvVWy1_gbNhL5SgFigB69ZbkujBMdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741456490527-59jinssfd7q5lh60v740hi2m689i2e4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741456490527:android:3bdcfce21c0ed5b3f0a52a",
+        "android_client_info": {
+          "package_name": "com.technifist.laundry_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741456490527-59jinssfd7q5lh60v740hi2m689i2e4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3FYvVWy1_gbNhL5SgFigB69ZbkujBMdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741456490527-59jinssfd7q5lh60v740hi2m689i2e4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

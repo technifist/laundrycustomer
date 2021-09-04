@@ -1,0 +1,4 @@
+*.pbxproj -text
+
+#node.js
+node_modules/
